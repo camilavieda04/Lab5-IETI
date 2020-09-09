@@ -64,7 +64,7 @@ export class Login extends React.Component{
                             </Link>
                         </div>
                         <div className="icon">
-                            <Link to="/Account" alignItems="center">
+                            <Link to="/Register" alignItems="center">
                                     <Button 
                                     color="primary"
                                     fullWidth
