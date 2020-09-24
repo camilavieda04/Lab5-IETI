@@ -1,3 +1,34 @@
+La presencia de este documento en este repositorio es un compromiso explícito de los colaboradores de seguir el siguiente código de honor:
+
+## Código de Honor
+Debes seguir el Código de honor del ingeniero de sistemas para defender el estándar de integridad académica de la ECI:
+
+Tus respuestas a tareas, cuestionarios y exámenes deben ser tu propio trabajo (excepto para las tareas que permiten explícitamente la colaboración).
+
+No puedes compartir tus soluciones de tareas, cuestionarios o exámenes con otra persona a menos que el instructor lo permita explícitamente. Esto incluye cualquier cosa escrita por ti, como también cualquier solución oficial proporcionada por el docente o el monitor del curso.
+
+No puedes participar en otras actividades que mejorarán de manera deshonesta tus resultados o que mejorarán de manera deshonesta o dañarán los resultados de otras personas.
+
+## Desarrollo 
+
+- Mediante el link que nos resulta al correr el comando `firebase deploy` se accede a la aplicación en internet.
+
+![Captura1](https://user-images.githubusercontent.com/48154086/94090945-93a64000-fddc-11ea-8010-8187af07569e.PNG)
+
+- Ahora corremos nuevamente nuestra aplicación y observamos que hay un signo + en la parte superior, esto quiere decir que el service worker esta activado y podremos acceder a nuestra aplicación desde nuestro dispositivo.
+
+![Captura2](https://user-images.githubusercontent.com/48154086/94091080-f0a1f600-fddc-11ea-918c-2d0599dd0bc7.PNG)
+
+![Captura3](https://user-images.githubusercontent.com/48154086/94091086-f3045000-fddc-11ea-9dc3-6d79e9931969.PNG)
+
+- A través de nuestro dispositivo móvil accedemos al link para agregar la app a nuestro celular y poder utilizarla desde allí como se muestra a continuación
+
+
+![Screenshot_20200923_202220_com android chrome](https://user-images.githubusercontent.com/48154086/94091210-4eced900-fddd-11ea-9ded-cfa1cdae4b37.jpg)
+![Screenshot_20200923_202226_com android chrome](https://user-images.githubusercontent.com/48154086/94091216-50989c80-fddd-11ea-84f1-10658a165dac.jpg)
+![Screenshot_20200923_202322_com android chrome](https://user-images.githubusercontent.com/48154086/94091224-52faf680-fddd-11ea-8b0d-e48aa9f9a0f5.jpg)
+![Screenshot_20200923_202330_com android chrome](https://user-images.githubusercontent.com/48154086/94091227-542c2380-fddd-11ea-869d-448e38aaffc5.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
