@@ -11,6 +11,11 @@ No puedes participar en otras actividades que mejorarán de manera deshonesta tu
 
 ## Desarrollo 
 
+### Link de aplicación 
+
+https://taskplannerapp-55bf2.web.app/
+
+
 - Mediante el link que nos resulta al correr el comando `firebase deploy` se accede a la aplicación en internet.
 
 ![Captura1](https://user-images.githubusercontent.com/48154086/94090945-93a64000-fddc-11ea-8010-8187af07569e.PNG)
